@@ -1,0 +1,20 @@
+header{
+    width: 100%;
+    background-color: rgb(249, 207, 255);
+}
+
+a{
+    font-size: 20px;
+    color: rgb(52, 0, 57) !important;
+    text-decoration: none !important;
+}
+
+#labelMir, #nameMir{
+    font-size: 20px;
+    color: rgb(52, 0, 57) !important;
+    margin-top: 2%;
+}
+
+#forms{
+    flex-direction: column;
+}
